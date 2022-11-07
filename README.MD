@@ -1,4 +1,4 @@
-<h1 align="center"> Qatar World Cup Calendar g</h1>
+<h1 align="center"> Qatar World Cup Calendar</h1>
 
 <p align="center">
 Free and exclusive event promoted by Rocketseat src using WEB technologies 
